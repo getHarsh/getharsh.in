@@ -1,0 +1,51 @@
+Title: About Harsh Joshi
+
+[Read HTML](https://getharsh.in/about/)
+
+Author: Harsh Joshi
+
+I grew up in [Lucknow](https://www.google.com/search?q=Lucknow%2C+Uttar+Pradesh), with roots in [Almora](https://www.google.com/search?q=Almora%2C+Uttarakhand).
+
+I studied Electronics and Communication Engineering at [Dehradun Institute of Technology](https://www.dituniversity.edu.in/), under [Uttarakhand Technical University](https://uktech.ac.in/en), from 2012 to 2016. I also studied remote sensing and satellite navigation through [IIRS](https://www.iirs.gov.in/). My formal training began in electronics, but my reading never stayed there. Questions about time led into philosophy and texts such as the *Katha Upanishad*. Building circuits and reading a dialogue between Nachiketa and Yama were different ways of spending an afternoon, yet both could leave me wondering whether I had understood the question at all.
+
+I have bought more books than I can read, played piano, made art, trained for MMA tournaments and hiked through much of India, spending time in monasteries along the way. You could call it an extensive period of regression testing on a personal front. Work has been just as exploratory. The people I could learn from often mattered as much as the job. In an early team, I could be cleaning the office floor, testing a PCB, designing an algorithm, writing firmware, talking to a vendor or helping someone else find their way into the problem. That breadth was an education in how much surrounds the apparently technical task.
+
+<a id="building-with-other-people"></a>
+
+## Building with other people
+
+My first research grew from an undergraduate thesis, Project Netra, with NEFORD and [ICAR-CSSRI](https://cssri.res.in/lucknow-rrs/)'s Regional Research Station in Lucknow. We were investigating inexpensive image analysis and embedded measurement for reclaiming sodic soil. It put the question of what a measurement means beside the people who needed to use it. During those college years I was a Google Student Ambassador and received NRDC Young Innovator and Intel Innovator recognition. The research also took me into guest lectures at IISR, IWMI in Laos, IIRS Dehradun, Pantnagar University and Allahabad University: another way of finding out whether I could make the work intelligible to somebody else.
+
+[Smart Joules](https://smartjoules.co.in/) grew from idea stage to Series A. I joined as its founding engineer in November 2016 and progressed to Product Development Lead, working across [DeJoule](https://dejoule.ai/), [JouleLabs](https://smartjoules.co.in/joulehub/joulelabs) and JouleMind through March 2020. I also represented the work outside the plant: on the panel at NREDCAP’s Powering Andhra Pradesh summit and at Shell’s Make the Future in Singapore.
+
+Field work changed what I expected from engineering. The operator needed a usable control, not our internal picture of the network. At the same time, building the team meant explaining the purpose of the work and making room for people to contribute. I founded and ran JouleLabs around that connection: students and mentors working on [real problems](https://getharsh.in/collections/learning-and-practice/a-real-problem-is-a-better-learning-brief/), with support that continued beyond handing over a brief.
+
+At [Zenoti](https://www.zenoti.com/), customer evidence pushed me in another direction. Support, onboarding and taxation for small businesses needed a simpler experience inside a much broader suite. Understanding more of the system let us ask less of the customer. It also changed my sense of ambition: [removing the right complexity](https://getharsh.in/blog/making-a-product-smaller/) can be harder, and more useful, than adding another feature.
+
+<a id="finding-a-way-to-build"></a>
+
+## Finding a way to build
+
+While I was discovering myself, I was also putting bread on the table: building ventures as an adviser and consultant, building two startups from zero as a founder, and working as a product manager in a startup that had already scaled. AI ran through all of it. I was lucky in the people I got to learn from, including people who had spent longer in the industry than I had been alive.
+
+My work with Sachait Technologies Pvt. Ltd. grew from helping friends into cofounder responsibility for product and engineering. Emergency response made the gap between detecting an event and helping a person impossible to overlook: false alarms, human review and the next responder all belonged to the product. That work continued as [YOJN Care](https://daostudio.in/yojn-care/). In October 2022, I co-founded [DAO Studio](https://daostudio.in/about/) with Shashwat Pandey. Amul and Lijjat Papad inspired its original ambition: help people create decentralised autonomous organisations. Exploring how AI could support that ambition led into making intelligence easier to use. I led its product, technology and company work through September 2024, and built YojnAI as an individual contributor. Composing model and tool work, inspecting the path and learning from feedback brought earlier product questions into a new technical setting.
+
+In September 2024 I built a reflection agent for code and for structured OpenAPI and gRPC specifications with [Specmatic](https://specmatic.io/). Later work brought me into engineering leadership at [Accacia](https://accacia.com/#) and GPU-cloud product work at [AION](https://www.aion.xyz/). The settings changed what I needed to understand: an agreement between services, the meaning inside a building-material document, the workload behind a compute purchase. I kept [product responsibility close to hands-on engineering](https://getharsh.in/collections/building-products-and-teams/a-career-through-problems/research-and-the-working-system/). Organising a team did not remove my desire to understand the mechanism; it made explaining its consequences to other people more important.
+
+My interests widened with those changes. Compute became a question about useful capacity and the economic arrangements around it. I also found myself building explanations alongside products. A writer arriving at a technical subject needs more than a title; an engineer making a product decision needs more than a summary. Finding the connection between the predicament, the mechanism and the argument became another part of the work.
+
+<a id="a-practice-beyond-the-job"></a>
+
+## A practice beyond the job
+
+Teaching has stayed with me. I volunteer with and help lead [UPAI](https://upailabs.org/), the Uttar Pradesh AI community. Lucknow AI Labs, or LAI, is its founding Lucknow chapter. A student's question or a collaborator's objection can reveal something I had stopped noticing. I am interested in education that gives curiosity a rigorous path, including the patience and support to follow it after the first explanation stops being enough.
+
+Shared research asks something beyond explaining an answer. People need a [question they can actually work on together](https://getharsh.in/collections/learning-and-practice/a-question-we-can-work-on-together/), with room for different contributions and a way to examine what those contributions changed. My own curiosity has moved through geometry, time, learning and the organisation of intelligence. Across those forms, I keep asking what causes what, how I could tell, and what that understanding lets me change. Keeping an ambition alive while becoming less attached to its first explanation has been an important part of that movement.
+
+Personal life changes the work as well. A venture that occupies every hour cannot be judged only by the elegance of its product. Relationships, family and the possibility of continuing matter. I have become more interested in what can endure, and in [what remains useful when an experiment ends](https://getharsh.in/collections/building-products-and-teams/what-remains-when-an-experiment-ends/), without pretending that every detour was part of a plan.
+
+Today I bring that practice to consulting at [RawThoughts](https://rawthoughts.in/). Alongside it, I am building [Pale](https://rawthoughts.in/pale/) so people and agents can continue work across their applications, and [Gazette](https://rawthoughts.in/gazette/) so connected writing, research and documentation can become publications people can explore. Agents decide far more often than people, so by the time one writes, what it read has usually changed; I am building [Weave](https://rawthoughts.in/weave/) and [Scope](https://rawthoughts.in/scope/) so the people and agents who share a piece of work can still act on a current picture of it. [Causality](https://causality.in/) takes the inquiry into adaptive models and architectures: how small reasoning units might learn to organise, and how a system can change its description of a problem. [Post-AGI Economics](https://post-agi-economics.org/) follows what cheaper machine agency changes in production and ordinary life. [The environment I want to work in](https://getharsh.in/collections/building-products-and-teams/building-a-place-to-think/) is part of the construction, not simply a set of tools around it.
+
+Art, music and cultural reading are not decorations added after the serious work. An image can make a relation visible; a sequence can change what it means; a tradition can resist the interpretation I arrived with. My graphic novel [Sleepwalker](https://sleepwalker.in/) gives those encounters a world to develop in. [Working through different forms](https://getharsh.in/collections/meaning-models-and-creative-practice/thinking-in-more-than-one-medium/) lets another kind of question appear. There are questions for which a working system is the right response, and others that need a proof, a conversation or an image. I would rather find the right form than make every curiosity serve a professional label.
+
+I'm also open to the right role: AI work with real ownership, inside a larger organisation. If that sounds like a conversation worth having, [write to me](mailto:hi@getharsh.in). My résumé is available on request. For a longer conversation in another form, I have spoken on [The Naked Product](https://www.youtube.com/watch?v=83pznk_YJ5U) and [Strategy of Finance](https://www.youtube.com/watch?v=I_sMwRp1Vtw).

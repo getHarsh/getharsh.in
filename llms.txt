@@ -1,0 +1,121 @@
+# getHarsh
+
+> Harsh Joshi builds products, explores intelligence and makes things, with AI since 2012.
+
+
+
+- [About Harsh Joshi](https://getharsh.in/about/index.md): The curiosity, experiences and people behind my practice. ([HTML](https://getharsh.in/about/))
+
+- [From a model answer to a useful product](https://getharsh.in/blog/an-ai-product-is-more-than-a-model/index.md): Product judgment connects model behaviour to a user's task, the surrounding operation and a way to recover. ([HTML](https://getharsh.in/blog/an-ai-product-is-more-than-a-model/))
+
+- [The vocabulary of an unfamiliar world](https://getharsh.in/blog/an-analogy-can-start-an-argument/index.md): A triangle, a clock and an operating-system image open questions that change as I follow them. What must a new vocabulary let us see? ([HTML](https://getharsh.in/blog/an-analogy-can-start-an-argument/))
+
+- [Sneak peek into infinity: the breath of cosmos and its duration](https://getharsh.in/blog/breath-of-cosmos/index.md): A breath opens a thought experiment in control systems, cosmic time and unbounded ratios, leading to the possibility of collective consciousness. ([HTML](https://getharsh.in/blog/breath-of-cosmos/))
+
+- [Debauchery, in the name of existence!](https://getharsh.in/blog/debauchery-in-the-name-of-existence/index.md): A year-end provocation about solving problems, transferring their consequences and making room for compassion and unfamiliar ways of knowing. ([HTML](https://getharsh.in/blog/debauchery-in-the-name-of-existence/))
+
+- [Dumb comedy: existentialism for the twenty-first century](https://getharsh.in/blog/dumb-comedy/index.md): Why sitcoms, their awkward heroes and the small pleasure of a joke gave me a way back into larger questions at the end of 2019. ([HTML](https://getharsh.in/blog/dumb-comedy/))
+
+- [Every digital product manager must become an AI product manager](https://getharsh.in/blog/every-product-manager-is-an-ai-product-manager/index.md): Consumer empathy, technical fluency and research must meet when AI changes how people use a product and how a business delivers it. ([HTML](https://getharsh.in/blog/every-product-manager-is-an-ai-product-manager/))
+
+- [Figuring things out, one book at a time](https://getharsh.in/blog/figuring-things-out-one-book-at-a-time/index.md): A February 2020 reflection on forgiveness, attachment, friendship and taking time to find the next part of a life. ([HTML](https://getharsh.in/blog/figuring-things-out-one-book-at-a-time/))
+
+- [When the compute question became larger](https://getharsh.in/blog/from-compute-to-an-economic-question/index.md): Following useful AI capacity from a workload into the organisations and economic arrangements around it. ([HTML](https://getharsh.in/blog/from-compute-to-an-economic-question/))
+
+- [Holding an idea without becoming it](https://getharsh.in/blog/holding-an-idea-without-becoming-it/index.md): Why detachment complements capitalism: hearing the objection, changing the plan and making room for work neither side could do alone. ([HTML](https://getharsh.in/blog/holding-an-idea-without-becoming-it/))
+
+- [Blog](https://getharsh.in/blog/index.md): Essays that stand on their own, from leadership and product work to comedy, forgiveness and the scale of a breath. ([HTML](https://getharsh.in/blog/))
+
+- [Knowing, understanding and realising](https://getharsh.in/blog/knowing-understanding-and-realising/index.md): Why possessing an explanation and making its meaning part of one's life are different encounters. ([HTML](https://getharsh.in/blog/knowing-understanding-and-realising/))
+
+- [When customers need less product](https://getharsh.in/blog/making-a-product-smaller/index.md): Customer evidence can make removing complexity a stronger product decision than extending the feature list. ([HTML](https://getharsh.in/blog/making-a-product-smaller/))
+
+- [Navigating the feedback loop](https://getharsh.in/blog/navigating-the-feedback-loop/index.md): How awareness, metadata and reusable intelligence connect a personal inquiry through YOJN, engineering, mathematics and Sleepwalker. ([HTML](https://getharsh.in/blog/navigating-the-feedback-loop/))
+
+- [How research becomes a reading path](https://getharsh.in/blog/research-becomes-a-reading-path/index.md): An editorial programme connects a reader's problem to explanations, evidence and useful artifacts without turning each article into the same sales pitch. ([HTML](https://getharsh.in/blog/research-becomes-a-reading-path/))
+
+- [Leading beyond the title](https://getharsh.in/blog/responsibility-is-not-a-title/index.md): The uncomfortable work of earning trust, making a decision and helping a team outgrow its dependence on you. ([HTML](https://getharsh.in/blog/responsibility-is-not-a-title/))
+
+- [Teachings of the mirror](https://getharsh.in/blog/teachings-of-the-mirror/index.md): A Mahashivratri reflection on the teacher as a mirror, the difficulty of an unbiased encounter and the work of finding a path. ([HTML](https://getharsh.in/blog/teachings-of-the-mirror/))
+
+- [Gravity was still acting on the magnet](https://getharsh.in/blog/the-first-decade/index.md): A first-decade reflection on the people, experiments and personal life that shape professional judgment. ([HTML](https://getharsh.in/blog/the-first-decade/))
+
+- [The future we create, and condemn](https://getharsh.in/blog/the-future-we-create-and-condemn/index.md): A January 2020 reflection on a father and son imagining the same future, the economics of making it real and the identities that shape our response. ([HTML](https://getharsh.in/blog/the-future-we-create-and-condemn/))
+
+- [Vision, strategy, agility and culture](https://getharsh.in/blog/vision-strategy-agility-and-culture/index.md): Why a plan needs time to understand the problem, room to change and a team whose trust carries more than a process can specify. ([HTML](https://getharsh.in/blog/vision-strategy-agility-and-culture/))
+
+- [What a decade! Makes me wonder what is to come](https://getharsh.in/blog/what-a-decade/index.md): Looking back on the 2010s through failure, friendship, teaching, art and the questions that survived the decade. ([HTML](https://getharsh.in/blog/what-a-decade/))
+
+- [From the plant to the team](https://getharsh.in/collections/building-products-and-teams/a-career-through-problems/from-the-plant-to-the-team/index.md): A measurement problem became a product problem, and then a problem of helping other people carry the work. ([HTML](https://getharsh.in/collections/building-products-and-teams/a-career-through-problems/from-the-plant-to-the-team/))
+
+- [A career through problems](https://getharsh.in/collections/building-products-and-teams/a-career-through-problems/index.md): The movement through field engineering, customer-led products, AI applications and research-informed system building. ([HTML](https://getharsh.in/collections/building-products-and-teams/a-career-through-problems/))
+
+- [Making intelligence usable](https://getharsh.in/collections/building-products-and-teams/a-career-through-problems/making-intelligence-usable/index.md): Composing, observing and revising AI applications brought earlier product and engineering questions into a new medium. ([HTML](https://getharsh.in/collections/building-products-and-teams/a-career-through-problems/making-intelligence-usable/))
+
+- [Research and the working system](https://getharsh.in/collections/building-products-and-teams/a-career-through-problems/research-and-the-working-system/index.md): Engineering leadership and product work on API agreements, building-material documents and GPU clusters, and what each taught about the working system. ([HTML](https://getharsh.in/collections/building-products-and-teams/a-career-through-problems/research-and-the-working-system/))
+
+- [The customer changes the system](https://getharsh.in/collections/building-products-and-teams/a-career-through-problems/the-customer-changes-the-system/index.md): Customer-led simplification and emergency-response work changed where I looked for the useful product. ([HTML](https://getharsh.in/collections/building-products-and-teams/a-career-through-problems/the-customer-changes-the-system/))
+
+- [Building a place to think](https://getharsh.in/collections/building-products-and-teams/building-a-place-to-think/index.md): What a working environment must remember so that moving between inquiries does not mean beginning again. ([HTML](https://getharsh.in/collections/building-products-and-teams/building-a-place-to-think/))
+
+- [What does the line item mean?](https://getharsh.in/collections/building-products-and-teams/from-document-to-domain/index.md): Turning a document into useful domain information requires units, context, relationships and correction, not merely accurate extraction. ([HTML](https://getharsh.in/collections/building-products-and-teams/from-document-to-domain/))
+
+- [Building products and teams](https://getharsh.in/collections/building-products-and-teams/index.md): Product judgment, technical research, shared responsibility and the systems that let useful work continue. ([HTML](https://getharsh.in/collections/building-products-and-teams/))
+
+- [When research changes the product](https://getharsh.in/collections/building-products-and-teams/research-that-changes-the-product/index.md): From a technical promise to a useful measure and the developer's complete operation. ([HTML](https://getharsh.in/collections/building-products-and-teams/research-that-changes-the-product/))
+
+- [Past the first successful call](https://getharsh.in/collections/building-products-and-teams/research-that-changes-the-product/past-the-first-successful-call/index.md): The developer's complete operation reveals product choices that a successful inference demonstration can leave invisible. ([HTML](https://getharsh.in/collections/building-products-and-teams/research-that-changes-the-product/past-the-first-successful-call/))
+
+- [The promise inside the interface](https://getharsh.in/collections/building-products-and-teams/research-that-changes-the-product/the-promise-inside-the-interface/index.md): How understanding an inference mechanism changes the workload, comparison and promise a product team can sensibly offer. ([HTML](https://getharsh.in/collections/building-products-and-teams/research-that-changes-the-product/the-promise-inside-the-interface/))
+
+- [What the measure leaves out](https://getharsh.in/collections/building-products-and-teams/research-that-changes-the-product/what-the-measure-leaves-out/index.md): A worked inference example in which more completed answers produce less useful work, and what that changes in product judgment. ([HTML](https://getharsh.in/collections/building-products-and-teams/research-that-changes-the-product/what-the-measure-leaves-out/))
+
+- [The shape of a useful intervention](https://getharsh.in/collections/building-products-and-teams/the-shape-of-a-useful-intervention/index.md): A booking disagreement shows how advisory work can turn an attractive redesign into a commitment the team can actually carry. ([HTML](https://getharsh.in/collections/building-products-and-teams/the-shape-of-a-useful-intervention/))
+
+- [The work that can travel](https://getharsh.in/collections/building-products-and-teams/the-work-that-can-travel/index.md): How emergency-response technology continued as YOJN Care, while YojnAI supplied a shared mechanism to independently owned applications. ([HTML](https://getharsh.in/collections/building-products-and-teams/the-work-that-can-travel/))
+
+- [What remains when an experiment ends](https://getharsh.in/collections/building-products-and-teams/what-remains-when-an-experiment-ends/index.md): A career can retain the useful work of an unsuccessful venture without keeping its old promises alive. ([HTML](https://getharsh.in/collections/building-products-and-teams/what-remains-when-an-experiment-ends/))
+
+- [Advice that meets the operator](https://getharsh.in/collections/energy-efficiency/from-service-to-control/advice-that-meets-the-operator/index.md): Turning a recurring deviation into useful assistance requires a diagnosis, context and somebody able to respond. ([HTML](https://getharsh.in/collections/energy-efficiency/from-service-to-control/advice-that-meets-the-operator/))
+
+- [Did the command reach the pump?](https://getharsh.in/collections/energy-efficiency/from-service-to-control/did-the-command-reach-the-pump/index.md): Following an industrial control from the operator's button through its dependencies to the equipment's actual response. ([HTML](https://getharsh.in/collections/energy-efficiency/from-service-to-control/did-the-command-reach-the-pump/))
+
+- [From service to control](https://getharsh.in/collections/energy-efficiency/from-service-to-control/index.md): An energy service gives a control its purpose, and observed consequences give advice something useful to learn from. ([HTML](https://getharsh.in/collections/energy-efficiency/from-service-to-control/))
+
+- [The service behind the saving](https://getharsh.in/collections/energy-efficiency/from-service-to-control/the-service-behind-the-saving/index.md): Energy efficiency needs a service boundary and a fair comparison, not only a smaller reading. ([HTML](https://getharsh.in/collections/energy-efficiency/from-service-to-control/the-service-behind-the-saving/))
+
+- [Energy efficiency](https://getharsh.in/collections/energy-efficiency/index.md): What building energy products at Smart Joules taught me: savings that keep the service, controls that reach the plant and advice an operator can use. ([HTML](https://getharsh.in/collections/energy-efficiency/))
+
+- [Thoughts](https://getharsh.in/collections/index.md): Questions that develop across product work, learning and creative practice. ([HTML](https://getharsh.in/collections/))
+
+- [A question we can work on together](https://getharsh.in/collections/learning-and-practice/a-question-we-can-work-on-together/index.md): Shared research becomes possible when a question has a tractable experiment, connected contributions and a record that lets other people continue. ([HTML](https://getharsh.in/collections/learning-and-practice/a-question-we-can-work-on-together/))
+
+- [Learning with a real problem](https://getharsh.in/collections/learning-and-practice/a-real-problem-is-a-better-learning-brief/index.md): Mentoring connects a learner's next step to a useful problem, a review and a realistic commitment. ([HTML](https://getharsh.in/collections/learning-and-practice/a-real-problem-is-a-better-learning-brief/))
+
+- [Learning and practice](https://getharsh.in/collections/learning-and-practice/index.md): How curiosity, study, mentoring and feedback change what a person can do. ([HTML](https://getharsh.in/collections/learning-and-practice/))
+
+- [The discipline after unlearning](https://getharsh.in/collections/learning-and-practice/unlearning-needs-something-to-test-against/index.md): Questioning an inherited explanation is a beginning; replacing it needs study, comparison and a way to be wrong. ([HTML](https://getharsh.in/collections/learning-and-practice/unlearning-needs-something-to-test-against/))
+
+- [A future that remembers](https://getharsh.in/collections/meaning-models-and-creative-practice/a-future-that-remembers/index.md): Why I imagine technology growing through cultural life: repairable objects, ordinary rooms and an inherited form capable of doing something surprising. ([HTML](https://getharsh.in/collections/meaning-models-and-creative-practice/a-future-that-remembers/))
+
+- [A lifetime in the larger frame](https://getharsh.in/collections/meaning-models-and-creative-practice/a-lifetime-in-the-larger-frame/index.md): A breath and an immense span of time make me wonder why changing the scale of a life should change its significance. ([HTML](https://getharsh.in/collections/meaning-models-and-creative-practice/a-lifetime-in-the-larger-frame/))
+
+- [Meaning, models and creative practice](https://getharsh.in/collections/meaning-models-and-creative-practice/index.md): Personal inquiries into intelligence, time, memory and the forms through which a question becomes thinkable. ([HTML](https://getharsh.in/collections/meaning-models-and-creative-practice/))
+
+- [The intelligence between the parts](https://getharsh.in/collections/meaning-models-and-creative-practice/the-intelligence-between-the-parts/index.md): An operating-system image led me from composing AI applications to a harder question: what could make several learned capacities useful together? ([HTML](https://getharsh.in/collections/meaning-models-and-creative-practice/the-intelligence-between-the-parts/))
+
+- [Thinking in more than one medium](https://getharsh.in/collections/meaning-models-and-creative-practice/thinking-in-more-than-one-medium/index.md): A diagram, an image, a sound and a sequence invite different acts of attention. Moving between them can change the question I am able to ask. ([HTML](https://getharsh.in/collections/meaning-models-and-creative-practice/thinking-in-more-than-one-medium/))
+
+- [What I want a memory to do](https://getharsh.in/collections/meaning-models-and-creative-practice/what-i-want-a-memory-to-do/index.md): Keeping a thought is easy; recognising when it becomes useful, and what must change when it stops helping, is the learning problem that interests me. ([HTML](https://getharsh.in/collections/meaning-models-and-creative-practice/what-i-want-a-memory-to-do/))
+
+- [Harsh Joshi](https://getharsh.in/index.md): Harsh Joshi builds products, explores intelligence and makes things, with AI since 2012. ([HTML](https://getharsh.in/))
+
+- [Privacy notice](https://getharsh.in/privacy/index.md): Website hosting, email contact, reading preferences and external reading assistance on getharsh.in. ([HTML](https://getharsh.in/privacy/))
+
+- [The projects I pursue](https://getharsh.in/projects/index.md): Different homes for my applied, formal, economic and creative work. ([HTML](https://getharsh.in/projects/))
+
+- [Search](https://getharsh.in/search/index.md): Find pages, articles and collections from getHarsh. ([HTML](https://getharsh.in/search/))
+
+- [Terms of use](https://getharsh.in/terms/index.md): Use and reuse of getHarsh and contact with the publisher. ([HTML](https://getharsh.in/terms/))
+
+

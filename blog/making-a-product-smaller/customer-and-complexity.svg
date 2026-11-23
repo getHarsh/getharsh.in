@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="664" viewBox="0 0 520 664" role="img" aria-labelledby="customer-complexity-title customer-complexity-desc">
+<title id="customer-complexity-title">Who carries the complexity?</title><desc id="customer-complexity-desc">The same business operation can ask very different things of its customer. Starting from the suite, the customer learns the product’s categories, interprets configuration and dependencies, then finds a way to begin the operation. Starting from the customer’s task, the customer chooses the operation, follows the necessary decisions with a route through exceptions, then completes the business operation. Necessary dependencies remain: a payment provider may still need to finish onboarding, and an imported balance must still belong to the right customer. A simpler experience makes these limits intelligible; it cannot wish them away.</desc>
+<text x="20" y="30" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="22" font-weight="600">Start from the suite</text>
+<text x="280" y="30" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="22" font-weight="600">Start from the</text>
+<text x="280" y="58" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="22" font-weight="600">customer’s task</text>
+<text x="20" y="110" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="20">Learn the product’s</text>
+<text x="20" y="138" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="20">categories</text>
+<text x="20" y="184" fill="var(--color-accent, #964f1b)" font-family="var(--type-family-reading, sans-serif)" font-size="20">↓</text>
+<text x="20" y="212" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="20">Interpret configuration</text>
+<text x="20" y="240" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="20">and dependencies</text>
+<text x="20" y="314" fill="var(--color-accent, #964f1b)" font-family="var(--type-family-reading, sans-serif)" font-size="20">↓</text>
+<text x="20" y="342" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="20">Find a way to begin the</text>
+<text x="20" y="370" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="20">operation</text>
+<path d="M20 160H240" fill="none" stroke="var(--color-ink, #342b21)" stroke-width="1" opacity="0.4"/>
+<path d="M20 290H240" fill="none" stroke="var(--color-ink, #342b21)" stroke-width="1" opacity="0.4"/>
+<path d="M20 392H240" fill="none" stroke="var(--color-ink, #342b21)" stroke-width="1" opacity="0.4"/>
+<text x="280" y="110" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="20">Choose the operation</text>
+<text x="280" y="184" fill="var(--color-accent, #964f1b)" font-family="var(--type-family-reading, sans-serif)" font-size="20">↓</text>
+<text x="280" y="212" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="20">Follow necessary</text>
+<text x="280" y="240" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="20">decisions with a route</text>
+<text x="280" y="268" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="20">through exceptions</text>
+<text x="280" y="314" fill="var(--color-accent, #964f1b)" font-family="var(--type-family-reading, sans-serif)" font-size="20">↓</text>
+<text x="280" y="342" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="20">Complete the business</text>
+<text x="280" y="370" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="20">operation</text>
+<path d="M280 160H500" fill="none" stroke="var(--color-ink, #342b21)" stroke-width="1" opacity="0.4"/>
+<path d="M280 290H500" fill="none" stroke="var(--color-ink, #342b21)" stroke-width="1" opacity="0.4"/>
+<path d="M280 392H500" fill="none" stroke="var(--color-ink, #342b21)" stroke-width="1" opacity="0.4"/>
+<text x="20" y="444" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="22" font-weight="600">Necessary dependencies remain</text>
+<text x="20" y="482" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="20">A payment provider may still need to finish</text>
+<text x="20" y="510" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="20">onboarding.</text>
+<text x="20" y="548" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="20">An imported balance must still belong to the right</text>
+<text x="20" y="576" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="20">customer.</text>
+<text x="20" y="614" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="20">A simpler experience makes these limits</text>
+<text x="20" y="642" fill="var(--color-ink, #342b21)" font-family="var(--type-family-reading, sans-serif)" font-size="20">intelligible; it cannot wish them away.</text>
+</svg>
