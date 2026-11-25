@@ -2,37 +2,35 @@ Title: The projects I pursue
 
 [Read HTML](https://getharsh.in/projects/)
 
-Author: Harsh Joshi
-
 <a id="rawthoughts"></a>
 
-## [RawThoughts](https://rawthoughts.in/)
+## [RawThoughts](https://rawthoughts.in/) (on RawThoughts)
 
 RawThoughts is where I build useful systems and consult through RTEPL, alongside essays that explore the product and engineering questions behind the work. Two inquiries branch from it: Causality on the mathematics and Post-AGI Economics on the economy.
 
 <a id="causality"></a>
 
-## [Causality](https://causality.in/)
+## [Causality](https://causality.in/) (on Causality)
 
 I explore how intelligence changes its understanding through mathematical descriptions, adaptive reasoning units and collective architectures, connecting representation, memory and learning.
 
 <a id="post-agi-economics"></a>
 
-## [Post-AGI Economics](https://post-agi-economics.org/)
+## [Post-AGI Economics](https://post-agi-economics.org/) (on Post-AGI Economics)
 
 I study how cheaper intelligence changes production constraints, ownership and household income, and whether the gains reach the people who need to buy what is produced.
 
 <a id="sleepwalker"></a>
 
-## [Sleepwalker](https://sleepwalker.in/)
+## [Sleepwalker](https://sleepwalker.in/) (on Sleepwalker)
 
 I am developing a mythic science-fiction graphic novel about seven children, an impossible book and dreams that awaken ruins on distant worlds. Vedic inquiry and studies in image, language and sequence explore the questions and craft behind it.
 
 <a id="dao-studio"></a>
 
-## [DAO Studio](https://daostudio.in/)
+## [DAO Studio](https://daostudio.in/) (on DAO Studio)
 
-I co-founded DAO Studio in 2022 with the ambition of helping people create decentralised autonomous organisations. The work developed into coordinated emergency response with [YOJN Care](https://daostudio.in/yojn-care/), inspectable AI applications with [YojnAI](https://daostudio.in/yojnai/), and [DAOnet’s](https://daostudio.in/daonet/) design for carrying reusable capability between teams.
+I co-founded DAO Studio in 2022 with the ambition of helping people create decentralised autonomous organisations. The work developed into coordinated emergency response with [YOJN Care](https://daostudio.in/yojn-care/) (on DAO Studio), inspectable AI applications with [YojnAI](https://daostudio.in/yojnai/) (on DAO Studio), and [DAOnet’s](https://daostudio.in/daonet/) (on DAO Studio) design for carrying reusable capability between teams.
 
 Pause carousel
 
@@ -68,4 +66,4 @@ They share one question: how a person, a model, an organisation or a society wit
 
 **Where should I start?**
 
-RawThoughts follows useful engineering and collaboration, and its [products](https://rawthoughts.in/products/) are the place to see that work as one system. Causality takes the formal questions, Post-AGI Economics follows economic consequences, and Sleepwalker opens into a graphic novel and the inquiry and creative work behind it. DAO Studio brings together coordinated response, inspectable AI applications and reusable capability. Product and implementation enquiries go through [RawThoughts’ services](https://rawthoughts.in/services/).
+RawThoughts follows useful engineering and collaboration, and its [products](https://rawthoughts.in/products/) (on RawThoughts) are the place to see that work as one system. Causality takes the formal questions, Post-AGI Economics follows economic consequences, and Sleepwalker opens into a graphic novel and the inquiry and creative work behind it. DAO Studio brings together coordinated response, inspectable AI applications and reusable capability. Product and implementation enquiries go through [RawThoughts’ services](https://rawthoughts.in/services/) (on RawThoughts).

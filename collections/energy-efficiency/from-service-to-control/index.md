@@ -2,8 +2,6 @@ Title: From service to control
 
 [Read HTML](https://getharsh.in/collections/energy-efficiency/from-service-to-control/)
 
-Author: Harsh Joshi
-
 A lower meter reading is easy to celebrate. The building still needs cooling, and changing one piece of equipment can move work elsewhere in the plant. Before choosing a control, we need to know which service the change should preserve and what comparison would tell us whether it helped.
 
 The control then has a physical path to follow. A request can arrive without producing the intended response; a stale observation can make yesterday's state look current. Following that path brings the operator into the engineering account. Their intervention is part of what the system needs to understand.

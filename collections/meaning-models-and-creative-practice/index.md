@@ -2,8 +2,6 @@ Title: Meaning, models and creative practice
 
 [Read HTML](https://getharsh.in/collections/meaning-models-and-creative-practice/)
 
-Author: Harsh Joshi
-
 Some questions remain interesting after their first explanation stops working. I can let go of an equation and still want to understand the intuition that made me write it. A picture can open a question that needs mathematics, or offer something a mathematical account was never meant to supply. The work is finding a form that lets the inquiry deepen without requiring it to pretend to be something else.
 
 Intelligence, time and memory keep returning in that work. Where does the useful capacity of a whole reside? What happens to a person's sense of scale when the account becomes larger than a lifetime? Which part of an experience is worth retaining, and what would let that experience change a later judgment? I meet these questions in ordinary experiences too: returning to a note, waiting for someone to answer, discovering that a drawing has changed what I wanted to say.

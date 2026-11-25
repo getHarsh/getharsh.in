@@ -16,7 +16,7 @@ The hypothetical inference team has understood why an interactive assistant and 
 
 ## Activity before a usable start
 
-A particularly revealing case is a coordinated job waiting for all its resources. Several devices may have started while one necessary device or storage connection remains unavailable. The interface can display activity; the intended work still cannot begin. [The usable start](https://rawthoughts.in/collections/useful-compute/a-capacity-promise-needs-a-clock/) gives provisioning a more demanding meaning. This is where an apparently operational detail becomes a product decision: what exactly was sold, when can the user rely on it, and what can they do if it is incomplete?
+A particularly revealing case is a coordinated job waiting for all its resources. Several devices may have started while one necessary device or storage connection remains unavailable. The interface can display activity; the intended work still cannot begin. [The usable start](https://rawthoughts.in/collections/useful-compute/a-capacity-promise-needs-a-clock/) (on RawThoughts) gives provisioning a more demanding meaning. This is where an apparently operational detail becomes a product decision: what exactly was sold, when can the user rely on it, and what can they do if it is incomplete?
 
 An incomplete environment also changes the meaning of recovery. Retrying the operation without knowing which resources already exist can repeat cost or leave another half-formed attempt behind. The developer needs an account of the current state and a way to continue or stop it. A response that only reports success or failure may be simpler to display while leaving the harder decision entirely with the person.
 
@@ -26,7 +26,7 @@ The answer is not to expose every internal setting to every user. An engineer de
 
 ## A useful request has to become a definite choice
 
-The same pressure appears in a natural-language interface. “Finish this experiment by Friday” invites a person into the work without requiring them to begin with provider APIs. It still needs to become [a definite proposal they can inspect](https://rawthoughts.in/blog/what-an-infrastructure-request-must-become/): what will run, at what cost, under which constraints, and where the result will go. I am interested in making that translation useful to an engineer, a business owner and an agent without letting each receive a different account of the same decision. The product abstraction has to carry the choice through to its consequence.
+The same pressure appears in a natural-language interface. “Finish this experiment by Friday” invites a person into the work without requiring them to begin with provider APIs. It still needs to become [a definite proposal they can inspect](https://rawthoughts.in/blog/what-an-infrastructure-request-must-become/) (on RawThoughts): what will run, at what cost, under which constraints, and where the result will go. I am interested in making that translation useful to an engineer, a business owner and an agent without letting each receive a different account of the same decision. The product abstraction has to carry the choice through to its consequence.
 
 A deadline alone cannot determine the model, the acceptable quality or the budget. Giving the system more freedom can make the interface inviting, but somebody still has to choose how those constraints relate. The proposal is where that choice becomes available for agreement. The execution record is where the participants can find out what happened to it.
 

@@ -2,8 +2,6 @@ Title: Harsh Joshi
 
 [Read HTML](https://getharsh.in/)
 
-Author: Harsh Joshi
-
 <a id="harsh-joshi"></a>
 
 # Harsh Joshi

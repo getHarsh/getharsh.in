@@ -86,7 +86,7 @@ You know the monkey typing on a keyboard for long enough to produce *Hamlet*? Th
 
 But calculating the ratio and experiencing that connection are different things. [Knowing, understanding and realising](https://getharsh.in/blog/knowing-understanding-and-realising/) can take us through the same words and leave us somewhere quite different.
 
-My early generative-art explorations for [Sleepwalker](https://sleepwalker.in/) gave this question another form. An image of Markandeya could hold the encounter with another scale while I worked through the calculation separately. It helps me separate the myth from the maths. The [creative inquiry that grows from the breath](https://sleepwalker.in/blog/the-world-inside-a-breath/) has room for a witness, a world and the bewilderment that a ratio cannot draw for us.
+My early generative-art explorations for [Sleepwalker](https://sleepwalker.in/) (on Sleepwalker) gave this question another form. An image of Markandeya could hold the encounter with another scale while I worked through the calculation separately. It helps me separate the myth from the maths. The [creative inquiry that grows from the breath](https://sleepwalker.in/blog/the-world-inside-a-breath/) (on Sleepwalker) has room for a witness, a world and the bewilderment that a ratio cannot draw for us.
 
 <a id="the-universe-in-our-breath"></a>
 

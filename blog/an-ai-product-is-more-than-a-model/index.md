@@ -36,7 +36,7 @@ The move from broadcast to on-demand gives a useful comparison. Distribution tec
 
 At [Zenoti](https://www.zenoti.com/), customer evidence led me towards [a simpler experience for a small-business segment](https://getharsh.in/blog/making-a-product-smaller/) within a much larger suite. Understanding what the customer needed mattered more than displaying everything the product could do. AI introduces different mechanisms, but a similar product decision: a model may make many responses possible while the valuable operation remains narrow. The user might need to settle one charge, not converse about the whole account. Three consequential choices can be more useful than a seemingly unlimited assistant that cannot complete any of them.
 
-Support, onboarding, data migration and handoffs are part of that operation. They determine whether the person can begin, whether the context is coherent and whether an exception has somewhere to go. A [conversational front desk](https://daostudio.in/blog/evolution-of-ai-and-its-future-in-b2b/) still needs those connections behind it; fluent conversation does not remove the work of completing a request.
+Support, onboarding, data migration and handoffs are part of that operation. They determine whether the person can begin, whether the context is coherent and whether an exception has somewhere to go. A [conversational front desk](https://daostudio.in/blog/evolution-of-ai-and-its-future-in-b2b/) (on DAO Studio) still needs those connections behind it; fluent conversation does not remove the work of completing a request.
 
 <a id="which-part-needs-to-get-better"></a>
 

@@ -2,8 +2,6 @@ Title: Privacy notice
 
 [Read HTML](https://getharsh.in/privacy/)
 
-Author: Harsh Joshi
-
 <a id="privacy-notice"></a>
 
 # Privacy notice

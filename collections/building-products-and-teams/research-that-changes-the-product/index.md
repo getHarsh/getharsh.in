@@ -2,8 +2,6 @@ Title: When research changes the product
 
 [Read HTML](https://getharsh.in/collections/building-products-and-teams/research-that-changes-the-product/)
 
-Author: Harsh Joshi
-
 A technical explanation can change what a product ought to promise. That is the crossing I want to follow: not understanding the technology for its own sake, or gathering enough background to make an existing proposal sound more convincing, but discovering that the useful product is different from the one we first imagined.
 
 A hypothetical inference service gives the question something concrete to work on. An interactive assistant and an overnight archive both ask for a machine, while needing different work from it. Once that difference becomes visible, an impressive performance measure may stop describing what the person needs. Following the developer beyond the demonstration then exposes choices about readiness, cost and recovery that the successful response left out.

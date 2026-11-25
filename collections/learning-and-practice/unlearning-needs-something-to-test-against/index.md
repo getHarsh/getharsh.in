@@ -64,7 +64,7 @@ Practical teaching has given the question a nearer form. [A real problem, a cont
 
 ## A question that changes what I build
 
-Time led me towards traditions, models and the creative inquiry I now pursue in [Sleepwalker](https://sleepwalker.in/). Product work led me towards learning and institutions. Each encounter gave the next question more substance: an unexplained experience could prompt study; an incomplete explanation could prompt a design; teaching could expose an assumption I had stopped noticing.
+Time led me towards traditions, models and the creative inquiry I now pursue in [Sleepwalker](https://sleepwalker.in/) (on Sleepwalker). Product work led me towards learning and institutions. Each encounter gave the next question more substance: an unexplained experience could prompt study; an incomplete explanation could prompt a design; teaching could expose an assumption I had stopped noticing.
 
 These encounters keep the world from feeling exhausted by the answers I already have. They give curiosity something to return to, study and build upon. Questioning an explanation opens a space; the patient work that follows lets something richer grow there without making it another allegiance.
 

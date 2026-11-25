@@ -2,8 +2,6 @@ Title: Terms of use
 
 [Read HTML](https://getharsh.in/terms/)
 
-Author: Harsh Joshi
-
 <a id="terms-of-use"></a>
 
 # Terms of use

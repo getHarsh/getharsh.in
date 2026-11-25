@@ -8,7 +8,7 @@ Author: Harsh Joshi
 
 # What remains when an experiment ends
 
-After [Smart Joules](https://smartjoules.co.in/), the path became less clear. There were jobs, partnerships, consulting conversations and attempts to build something of my own. Sachait Technologies Pvt. Ltd., a set of 2022 proposals for linked programmes and [DAO Studio](https://daostudio.in/about/) belonged to that period, alongside explorations that now look much less mature than they felt at the time. I was searching for a way of working as well as a problem to solve.
+After [Smart Joules](https://smartjoules.co.in/), the path became less clear. There were jobs, partnerships, consulting conversations and attempts to build something of my own. Sachait Technologies Pvt. Ltd., a set of 2022 proposals for linked programmes and [DAO Studio](https://daostudio.in/about/) (on DAO Studio) belonged to that period, alongside explorations that now look much less mature than they felt at the time. I was searching for a way of working as well as a problem to solve.
 
 Genuine problems were solved within arrangements that did not all become sustainable. That makes the period harder to describe than a sequence of either successes or detours. The outcome of the venture and the value of the work inside it can differ, leaving a difficult question about what remains when the larger system does not work out.
 
@@ -16,7 +16,7 @@ Genuine problems were solved within arrangements that did not all become sustain
 
 ## A problem can outlive the vehicle
 
-At Sachait, I joined a team working on emergency response and led product and engineering. A detector was only the beginning. The event had to reach people who could interpret it, carry its context and act. That work continued at DAO Studio as [YOJN Care](https://daostudio.in/yojn-care/). The setting changed, while the problem of connecting an observation to a useful response remained.
+At Sachait, I joined a team working on emergency response and led product and engineering. A detector was only the beginning. The event had to reach people who could interpret it, carry its context and act. That work continued at DAO Studio as [YOJN Care](https://daostudio.in/yojn-care/) (on DAO Studio). The setting changed, while the problem of connecting an observation to a useful response remained.
 
 The same principle appears at smaller scales. A design can be worth keeping even when the business model around it fails. A customer problem can remain important after a proposed product is abandoned. A team can have done valuable work without the organisation reaching the outcome it promised. A venture asks us to put so much under one name that, when the name stops working, we can mistakenly discard everything beneath it, or defend everything because we cannot bear to discard the name.
 
@@ -54,7 +54,7 @@ A useful component can become harder to sustain when it has to support an entire
 
 ## A continuing practice
 
-[RawThoughts](https://rawthoughts.in/about/) began as blogging and exploration during my transition out of Smart Joules, then developed into a consulting practice. Across those settings, I kept moving between engineering, product and the people living with the result. Looking back over [my trajectory](https://getharsh.in/about/), the questions connect more clearly than the organisations through which I pursued them.
+[RawThoughts](https://rawthoughts.in/about/) (on RawThoughts) began as blogging and exploration during my transition out of Smart Joules, then developed into a consulting practice. Across those settings, I kept moving between engineering, product and the people living with the result. Looking back over [my trajectory](https://getharsh.in/about/), the questions connect more clearly than the organisations through which I pursued them.
 
 The present gives me a clearer place to continue without requiring the past to have anticipated it. An experiment can end while leaving a better question, and sometimes carrying that question forward, with less machinery around it, is the most useful outcome available.
 

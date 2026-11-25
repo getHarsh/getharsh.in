@@ -2,8 +2,6 @@ Title: Thoughts
 
 [Read HTML](https://getharsh.in/collections/)
 
-Author: Harsh Joshi
-
 
 
 Page 1 of 1

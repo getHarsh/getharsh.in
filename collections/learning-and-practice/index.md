@@ -2,8 +2,6 @@ Title: Learning and practice
 
 [Read HTML](https://getharsh.in/collections/learning-and-practice/)
 
-Author: Harsh Joshi
-
 An answer can become familiar long before it becomes understood. I noticed that in questions about time, in customs around texts and in practical work where I could repeat the explanation but still could not use it. Questioning the answer opened a space. The harder part was learning what to do with that space.
 
 Study gives curiosity something to meet: a passage, a definition, a different interpretation, a result that resists the explanation. Practical work does the same in another setting. A learner might understand the pieces of a dashboard and discover, only when someone uses it, that the important decision is still difficult to make. Another person's question can bring the missing part into view.

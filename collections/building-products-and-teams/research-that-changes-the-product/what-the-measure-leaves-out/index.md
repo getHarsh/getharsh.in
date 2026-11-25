@@ -34,7 +34,7 @@ For the archive user, the response-time requirement may be beside the point. A b
 
 ## The task can be wrong too
 
-The task itself may need revision. In an annotation programme, a category can be applied consistently while failing to preserve the distinction the eventual model needs. The research question then concerns [what the label lets the next system learn](https://rawthoughts.in/blog/the-label-is-a-decision/), rather than how rapidly more labels can be produced. That is another place where product judgment enters technical work early: defining the useful output changes the data, the contributor's task and the evaluation together.
+The task itself may need revision. In an annotation programme, a category can be applied consistently while failing to preserve the distinction the eventual model needs. The research question then concerns [what the label lets the next system learn](https://rawthoughts.in/blog/the-label-is-a-decision/) (on RawThoughts), rather than how rapidly more labels can be produced. That is another place where product judgment enters technical work early: defining the useful output changes the data, the contributor's task and the evaluation together.
 
 An experiment that invalidates an attractive product assumption can be valuable even when it produces no launchable feature. If a new serving method helps only the overnight workload, the team has learned how to separate its users more honestly. If a category makes labelling easy while losing the distinction needed downstream, the team has learned that its definition of the work needs revision. More efficient execution of the original task would not resolve either problem.
 

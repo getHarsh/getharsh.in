@@ -51,7 +51,7 @@ The human contribution is more informative still when the reason survives. Perha
 
 Provenance supplies part of that structure. The [W3C PROV overview](https://www.w3.org/TR/prov-overview/) describes information about the entities, activities and people involved in producing a result. In this example, the source document, the selected product definition, the transformation and the correction are all relevant to understanding the total. Recording their relationship gives someone a way to investigate the result. It does not make the interpretation correct by itself.
 
-Nor does retaining everything automatically produce a useful account. The reviewer needs to see what changed this result, not wade through every unrelated event in the system. That is why [useful context](https://rawthoughts.in/collections/systems/context-that-helps-the-work/when-context-helps/) is a harder target than stored context. The package definition is quiet information until the count needs to become a different quantity. Then it can be indispensable.
+Nor does retaining everything automatically produce a useful account. The reviewer needs to see what changed this result, not wade through every unrelated event in the system. That is why [useful context](https://rawthoughts.in/collections/systems/context-that-helps-the-work/when-context-helps/) (on RawThoughts) is a harder target than stored context. The package definition is quiet information until the count needs to become a different quantity. Then it can be indispensable.
 
 <a id="the-domain-expert-changes-the-product-s-question"></a>
 

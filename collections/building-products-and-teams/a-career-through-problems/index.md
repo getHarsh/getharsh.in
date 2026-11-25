@@ -2,8 +2,6 @@ Title: A career through problems
 
 [Read HTML](https://getharsh.in/collections/building-products-and-teams/a-career-through-problems/)
 
-Author: Harsh Joshi
-
 My career looks straighter in a list of roles than it felt while living it. Engineering, product management, ventures and consulting overlapped. I followed people and problems, sometimes into an arrangement that worked, sometimes into an ambition I had not understood well enough. The connections became clearer through the work, rather than through a plan I had at the beginning.
 
 At first, making a measurement available opened the next problem: somebody had to understand it and act. Building the product meant bringing other people into that work. Later, customer evidence could ask for less of the system, while emergency-response work exposed how much a detector left to the people around it. Language-model applications made the gap between an impressive component and a useful result harder to see, and more important to follow.

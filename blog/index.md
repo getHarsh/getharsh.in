@@ -2,8 +2,6 @@ Title: Blog
 
 [Read HTML](https://getharsh.in/blog/)
 
-Author: Harsh Joshi
-
 
 
 Page 1 of 2

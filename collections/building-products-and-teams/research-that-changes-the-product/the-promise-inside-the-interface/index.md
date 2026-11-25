@@ -29,7 +29,7 @@ The two users give the team different questions to test:
 
 This changes the next conversation. Input lengths, response lengths and arrival patterns matter alongside the accelerator. A model upload needs a selected execution path, not just a place to store its weights. Interactive and batch demand may require different admission and scheduling choices. The mechanism has given the product team a concrete comparison to ask for before promising one pool for both.
 
-The commercial comparison changes too. A low rate for hardware that takes longer, interrupts more often or requires substantial adaptation may produce a costly result. The relevant purchase becomes [the completed job](https://rawthoughts.in/collections/useful-compute/a-gpu-price-is-not-a-job-cost/), with the time and conditions that make it useful. Technical research and pricing research meet at that object. Neither can settle the comparison alone.
+The commercial comparison changes too. A low rate for hardware that takes longer, interrupts more often or requires substantial adaptation may produce a costly result. The relevant purchase becomes [the completed job](https://rawthoughts.in/collections/useful-compute/a-gpu-price-is-not-a-job-cost/) (on RawThoughts), with the time and conditions that make it useful. Technical research and pricing research meet at that object. Neither can settle the comparison alone.
 
 <a id="far-enough-into-the-mechanism"></a>
 
