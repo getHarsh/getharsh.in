@@ -1,6 +1,6 @@
 # getHarsh
 
-> Harsh Joshi builds products, explores intelligence and makes things, with AI since 2012.
+> Harsh Joshi builds products and teams, from building controls to small-business software and GPU clouds. He has worked with AI since 2012.
 
 
 
@@ -14,7 +14,27 @@
 
 - [Blog](https://getharsh.in/blog/index.md): Essays that stand on their own, from leadership and product work to comedy, forgiveness and the scale of a breath. ([HTML](https://getharsh.in/blog/))
 
-- [About Harsh Joshi](https://getharsh.in/about/index.md): The curiosity, experiences and people behind my practice. ([HTML](https://getharsh.in/about/))
+- [About Harsh Joshi](https://getharsh.in/about/index.md): From building controls and small-business software to GPU cloud, and the people and questions that shaped the work. ([HTML](https://getharsh.in/about/))
+
+
+## Collections
+
+- [Building products and teams](https://getharsh.in/collections/building-products-and-teams/index.md): Product judgment, technical research, shared responsibility and the systems that let useful work continue. ([HTML](https://getharsh.in/collections/building-products-and-teams/))
+
+- [Energy efficiency](https://getharsh.in/collections/energy-efficiency/index.md): What building energy products at Smart Joules taught me: savings that keep the service, controls that reach the plant and advice an operator can use. ([HTML](https://getharsh.in/collections/energy-efficiency/))
+
+- [Learning and practice](https://getharsh.in/collections/learning-and-practice/index.md): How curiosity, study, mentoring and feedback change what a person can do. ([HTML](https://getharsh.in/collections/learning-and-practice/))
+
+- [Meaning, models and creative practice](https://getharsh.in/collections/meaning-models-and-creative-practice/index.md): Personal inquiries into intelligence, time, memory and the forms through which a question becomes thinkable. ([HTML](https://getharsh.in/collections/meaning-models-and-creative-practice/))
+
+
+## Reading journeys
+
+- [A career through problems](https://getharsh.in/collections/building-products-and-teams/a-career-through-problems/index.md): The movement through field engineering, customer-led products, AI applications and research-informed system building. ([HTML](https://getharsh.in/collections/building-products-and-teams/a-career-through-problems/))
+
+- [When research changes the product](https://getharsh.in/collections/building-products-and-teams/research-that-changes-the-product/index.md): From a technical promise to a useful measure and the developer's complete operation. ([HTML](https://getharsh.in/collections/building-products-and-teams/research-that-changes-the-product/))
+
+- [From service to control](https://getharsh.in/collections/energy-efficiency/from-service-to-control/index.md): An energy service gives a control its purpose, and observed consequences give advice something useful to learn from. ([HTML](https://getharsh.in/collections/energy-efficiency/from-service-to-control/))
 
 
 

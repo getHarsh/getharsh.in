@@ -2,6 +2,8 @@ Title: About Harsh Joshi
 
 [Read HTML](https://getharsh.in/about/)
 
+At Smart Joules I went from getting controls to work in hospital plant rooms to leading product development. At Zenoti I narrowed the small-business roadmap and helped ship a simpler product. At AION I looked at GPU capacity through the cost of finishing a workload.
+
 I grew up in [Lucknow](https://www.google.com/search?q=Lucknow%2C+Uttar+Pradesh), with roots in [Almora](https://www.google.com/search?q=Almora%2C+Uttarakhand).
 
 I studied Electronics and Communication Engineering at [Dehradun Institute of Technology](https://www.dituniversity.edu.in/), under [Uttarakhand Technical University](https://uktech.ac.in/en), from 2012 to 2016. I also studied remote sensing and satellite navigation through [IIRS](https://www.iirs.gov.in/). My formal training began in electronics, but my reading never stayed there. Questions about time led into philosophy and texts such as the *Katha Upanishad*. Building circuits and reading a dialogue between Nachiketa and Yama were different ways of spending an afternoon, yet both could leave me wondering whether I had understood the question at all.
@@ -46,4 +48,4 @@ Today I bring that practice to consulting at [RawThoughts](https://rawthoughts.i
 
 Art, music and cultural reading are not decorations added after the serious work. An image can make a relation visible; a sequence can change what it means; a tradition can resist the interpretation I arrived with. My graphic novel [Sleepwalker](https://sleepwalker.in/) (on Sleepwalker) gives those encounters a world to develop in. [Working through different forms](https://getharsh.in/collections/meaning-models-and-creative-practice/thinking-in-more-than-one-medium/) lets another kind of question appear. There are questions for which a working system is the right response, and others that need a proof, a conversation or an image. I would rather find the right form than make every curiosity serve a professional label.
 
-I'm also open to the right role: AI work with real ownership, inside a larger organisation. If that sounds like a conversation worth having, [write to me](mailto:hi@getharsh.in). My résumé is available on request. For a longer conversation in another form, I have spoken on [The Naked Product](https://www.youtube.com/watch?v=83pznk_YJ5U) and [Strategy of Finance](https://www.youtube.com/watch?v=I_sMwRp1Vtw).
+My résumé is available on request. If you’d like to talk about the work, [write to me](mailto:hi@getharsh.in). For a longer conversation in another form, I have spoken on [The Naked Product](https://www.youtube.com/watch?v=83pznk_YJ5U) and [Strategy of Finance](https://www.youtube.com/watch?v=I_sMwRp1Vtw).

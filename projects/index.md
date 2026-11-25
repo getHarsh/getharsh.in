@@ -6,7 +6,7 @@ Title: The projects I pursue
 
 ## [RawThoughts](https://rawthoughts.in/) (on RawThoughts)
 
-RawThoughts is where I build useful systems and consult through RTEPL, alongside essays that explore the product and engineering questions behind the work. Two inquiries branch from it: Causality on the mathematics and Post-AGI Economics on the economy.
+RawThoughts is where I try ideas in software and write down what the work taught me. Pale and Gazette grew there. It is also RTEPL’s engineering and consulting practice. Causality and Post-AGI Economics follow related questions about intelligence and the economy.
 
 <a id="causality"></a>
 

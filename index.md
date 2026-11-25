@@ -6,7 +6,7 @@ Title: Harsh Joshi
 
 # Harsh Joshi
 
-I like building products and meeting new people. This is my decentralised garage for engineering, intelligence and stories. Snoop around and [Reach out](mailto:hi@getharsh.in) if something catches your eye.
+I like building products and meeting new people. I’ve worked in hospital plant rooms, on software for small businesses and on GPU clouds. At [RawThoughts](https://rawthoughts.in/) (on RawThoughts) I test ideas in software and write down what holds up. Snoop around for the products, research and stories, and [reach out](mailto:hi@getharsh.in) if something catches your eye.
 
 ![Harsh Joshi, smiling, rendered as fine monochrome computer glyphs.](https://getharsh.in/assets/renditions/harsh-portrait/rest.webp)
 
@@ -16,7 +16,7 @@ I like building products and meeting new people. This is my decentralised garage
 
 ![Harsh Joshi laughing and turned to the left, rendered in the same monochrome glyphs.](https://getharsh.in/assets/renditions/harsh-portrait/peek-left.webp)
 
-Everything in the garage: tools for people and agents, research into intelligence, and a graphic novel.
+The tools I build for people and agents, my research into intelligence, and a graphic novel.
 
 [Explore projects](https://getharsh.in/projects/)
 
